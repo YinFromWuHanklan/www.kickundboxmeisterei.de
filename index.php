@@ -7,25 +7,11 @@
     </head>
     <body>
 
-        <div>
-            <a href="index.html" title="Kick &amp; Box Meisterei" class="logo_nav">
-                <img src="images/logo_kbm.png" alt="Kick & Box Meisterei" width="100" height="auto" />
-            </a>
-
-            <nav>
-                <ul>
-                    <li><a href="trainingsangebot.html" title="Trainingsangebot der Kick &amp; Box Meisterei">Trainingsangebot</a></li>
-                    <li><a href="about.html" title="">Über mich</a></li>                               
-                    <li><a href="kontakt.html" title="Kontakt zur Kick &amp; Box Meisterei">Kontakt</a></li>
-                    <li><a href="blog.html" title="Meisterei Blog">Blog</a></li>
-                </ul>
-                <div class="clear"></div>
-            </nav>
-        </div>
+        <?php include "basics/navigation.php"; ?>
 
         <div class="header">
             <div class="header_img_wrap">
-                <img src="" alt="" width="" />
+                <img src="images/header_img.jpeg" alt="Boxing" width="1200" height="auto" />
                 <h2 class="header_img_caption">Header caption text</h2>                
                 <a href="" title="">
                     <p>Header text</p>
@@ -136,22 +122,7 @@
             </div>
         </div>
 
-        <div class="footer">
-            <div class="social_media">
-                <ul>
-                    <li>Facebook</li>
-                    <li>Instagram</li>
-                    <li>Youtube</li>
-                </ul>
-            </div>
-
-            <div class="copyright">
-                <p>
-                    &copy; 2016-2017 Kick & Box Meisterei | 
-                    <a href="impressum.html">Impressum</a> | 
-                    <a href="">Sitemap</a>
-                </p>
-            </div>
-        </div>
+        <?php include "basics/footer.php"; ?>
+        
     </body>
 </html>
