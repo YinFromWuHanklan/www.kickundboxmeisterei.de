@@ -13,6 +13,14 @@ body {
 .clear {
   clear: both;
 }
+.header .header_img_wrap .header_caption_wrap {
+  position: absolute;
+  top: 280px;
+  right: 280px;
+  background-color: #0236d2;
+  padding: 0 20px 10px;
+  color: #fff;
+}
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -38,6 +46,7 @@ nav ul {
   text-align: left;
   padding: 25px 0 25px 150px;
   background-color: #e7214d;
+  margin-bottom: 0;
 }
 nav ul li {
   display: inline-block;

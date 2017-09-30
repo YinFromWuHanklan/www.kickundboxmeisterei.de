@@ -11,11 +11,11 @@
 
         <div class="header">
             <div class="header_img_wrap">
-                <img src="images/header_img.jpeg" alt="Boxing" width="1200" height="auto" />
-                <h2 class="header_img_caption">Header caption text</h2>                
-                <a href="" title="">
-                    <p>Header text</p>
-                </a>
+                <img src="images/header_img.jpg" alt="Boxing" width="auto" height="460" />
+                <div class="header_caption_wrap">
+                    <h2>Kick&amp;Box Meisterei München</h2>
+                    <p>Wir machen Meister</p>                   
+                </div>
             </div>
         </div>
 
@@ -123,6 +123,6 @@
         </div>
 
         <?php include "basics/footer.php"; ?>
-        
+
     </body>
 </html>
