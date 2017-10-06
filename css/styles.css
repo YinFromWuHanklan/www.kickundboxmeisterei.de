@@ -21,6 +21,9 @@ body {
   padding: 0 20px 10px;
   color: #fff;
 }
+.inner_wrap {
+  padding: 20px 15px;
+}
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -64,6 +67,12 @@ nav ul li a {
 }
 .footer {
   background-color: #0236d2;
+}
+.footer .social_media_wrap ul {
+  list-style: none;
+}
+.footer .social_media_wrap ul li {
+  display: inline-block;
 }
 .footer .copyright {
   text-align: center;

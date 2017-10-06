@@ -9,6 +9,10 @@
         
         <?php include "basics/navigation.php"; ?>        
 
+        <h1>Der Meister: Marcus Hanke</h1>
+        <img src="" alt="" width="" height="" />
+        <p>Text</p>
+        
         <?php include "basics/footer.php"; ?>
         
     </body>
