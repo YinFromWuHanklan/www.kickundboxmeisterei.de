@@ -2,21 +2,18 @@
     <div class="social_media_wrap">
         <ul>
             <li>
-                <a href="" title="" target="_blank">
-                    <img src="" alt="" width="" height="" />
-                    Facebook
+                <a href="#" title="" target="_blank">
+                    <img src="images/facebook_logo.png" alt="Facebook" width="50" height="50" />
                 </a>
             </li>
             <li>
-                <a href="" title="" target="_blank">
-                    <img src="" alt="" width="" height="" />
-                    Instagram
+                <a href="#" title="" target="_blank">
+                    <img src="images/instagram_logo.png" alt="Instagram" width="50" height="50" />                    
                 </a>
             </li>
             <li>
-                <a href="" title="" target="_blank">
-                    <img src="" alt="" width="" height="" />
-                    Youtube
+                <a href="#" title="" target="_blank">
+                    <img src="images/youtube_logo.png" alt="Youtube" width="50" height="50" />                    
                 </a>
             </li>
         </ul>
