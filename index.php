@@ -89,17 +89,7 @@
                     <p>Teaser Text</p>
                 </div>
             </div>
-
-            <!-- Testimonials Slideshow-->
-            <h2>Title Testimonials</h2>
-
-            <!-- About me -->
-            <div>
-                <h2>Title About me</h2>
-                <img src="" alt="" width="" />
-                <p>Short Text About me</p>
-            </div>
-
+            
             <div class="partner">
                 <h2>Freunde der Kick & Box Meisterei</h2>
                 <ul class="partner_list">

@@ -2,17 +2,17 @@
     <div class="social_media_wrap">
         <ul>
             <li>
-                <a href="#" title="" target="_blank">
+                <a href="https://www.facebook.com/kickundboxmeistere.de" title="Kick&amp;Box Meisterei auf Facebook" target="_blank">
                     <img src="images/facebook_logo.png" alt="Facebook" width="50" height="50" />
                 </a>
             </li>
             <li>
-                <a href="#" title="" target="_blank">
+                <a href="https://www.instagram.com/kickundboxmeisterei" title="Kick&amp;Box Meisterei auf Instagram" target="_blank">
                     <img src="images/instagram_logo.png" alt="Instagram" width="50" height="50" />                    
                 </a>
             </li>
             <li>
-                <a href="#" title="" target="_blank">
+                <a href="https://www.youtube.com/channel/UCG5NyL7rbXc3Sxi_GBSPc6Q" title="Kick&amp;Box Meisterei auf Youtube" target="_blank">
                     <img src="images/youtube_logo.png" alt="Youtube" width="50" height="50" />                    
                 </a>
             </li>
