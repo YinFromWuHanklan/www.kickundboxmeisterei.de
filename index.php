@@ -61,21 +61,21 @@
                 <h2>Title Training Offers</h2>
                 <div class="offer_teaser_big">
                     <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
+                        <h3>Boxen lernen in 3 Tagen</h3>
                         <img src="" alt="" width="" />
                     </div>
                     <p>Teaser Text</p>
                 </div>
                 <div class="offer_teaser_small">                
                     <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
+                        <h3>Privates Kick & Box Training</h3>
                         <img src="" alt="" width="" />
                     </div>
                     <p>Teaser Text</p>
                 </div>
                 <div class="offer_teaser_small">
                     <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
+                        <h3>Privates Gruppentraining</h3>
                         <img src="" alt="" width="" />
                     </div>
                     <p>Teaser Text</p>
