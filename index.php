@@ -21,45 +21,37 @@
 
         <div class="inner_wrap">
             <div class="intro">
-                <div>
+                <div class="intro_text">
                     <h1>Kick &amp; Box Meisterei München</h1>
                     <p>Wir machen Meister.</p>
                 </div>
-                <img src="" alt="" width="" />
+                <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="250px" />
             </div>
 
             <div class="concept">
-                <p>First paragraph</p>
+                <h2>Das Konzept</h2>
                 <div class="concept_teaser">
-                    <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
-                        <img src="" alt="" width="" />
-                    </div>
-                    <p>Teaser Text</p>
-                </div>
-                <div class="concept_teaser">                
-                    <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
-                        <img src="" alt="" width="" />
-                    </div>
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="150px" />
+                    <h3>Konzept 1</h3>                    
                     <p>Teaser Text</p>
                 </div>
                 <div class="concept_teaser">
-                    <div class="teaser_image">
-                        <h3>Teaser Caption</h3>
-                        <img src="" alt="" width="" />
-                    </div>
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="150px" />
+                    <h3>Konzept 2</h3>
+                    <p>Teaser Text</p>
+                </div>
+                <div class="concept_teaser">
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="150px" />
+                    <h3>Konzept 3</h3>
                     <p>Teaser Text</p>
                 </div>
             </div>
 
-            <!-- Youtube -->
-            <div class="youtube_show">
-                <h2>Title Youtube</h2>
-                <iframe src="https://www.youtube.com/embed/ytlink" width=""></iframe>
-                <iframe src="https://www.youtube.com/embed/ytlink" width=""></iframe>
-                <iframe src="https://www.youtube.com/embed/ytlink" width=""></iframe>
-                <iframe src="https://www.youtube.com/embed/ytlink" width=""></iframe>
+            <div class="clear youtube_show">
+                <iframe src="https://www.youtube.com/embed/kfMgaUoJt4I" width=""></iframe>
+                <iframe src="https://www.youtube.com/embed/ao5EAzwAhYY" width=""></iframe>
+                <iframe src="https://www.youtube.com/embed/EYEkxk0TfPE" width=""></iframe>
+                <iframe src="https://www.youtube.com/embed/au6VyjtxMmc" width=""></iframe>
             </div>
 
             <!-- Training Offers: drei Elemente, Hauptelement ist das 3 Tage Angebot, 
@@ -89,7 +81,7 @@
                     <p>Teaser Text</p>
                 </div>
             </div>
-            
+
             <div class="partner">
                 <h2>Freunde der Kick & Box Meisterei</h2>
                 <ul class="partner_list">

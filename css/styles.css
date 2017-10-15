@@ -32,11 +32,35 @@ body {
 .intro {
   text-align: center;
 }
+.intro .intro_text {
+  float: left;
+  width: 48%;
+}
+.concept h2 {
+  text-align: center;
+}
+.concept .concept_teaser {
+  border: 1px solid #000;
+  float: left;
+  width: 27%;
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.youtube_show {
+  margin: 35px 0;
+  padding: 25px 20px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
 h1 {
   font-family: 'Lato';
-  font-size: 30px;
+  font-size: 35px;
 }
 h2 {
+  font-family: 'Lato';
+  font-size: 25px;
+}
+h3 {
   font-family: 'Lato';
   font-size: 20px;
 }
