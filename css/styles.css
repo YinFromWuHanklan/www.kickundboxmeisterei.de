@@ -2,6 +2,7 @@
     Created on : 20.09.2017, 16:29:11
     Author     : yinyinwu-hanke
 */
+@import url('https://fonts.googleapis.com/css?family=Lato|Lora');
 html,
 body {
   padding: 0;
@@ -20,21 +21,34 @@ body {
   background-color: #0236d2;
   padding: 0 20px 10px;
   color: #fff;
+  opacity: 0.8;
+}
+.header .header_img_wrap .header_caption_wrap > h2 {
+  font-size: 30px;
 }
 .inner_wrap {
   padding: 20px 15px;
 }
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 24.09.2017, 11:35:06
-    Author     : yinyinwu-hanke
-*/
+.intro {
+  text-align: center;
+}
+h1 {
+  font-family: 'Lato';
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Lato';
+  font-size: 20px;
+}
+p {
+  font-family: 'Lora';
+  font-size: 15px;
+}
 /* Fonts Title: Lora oder Merriwheater Google Fotns 
    Text Arimo oder Lato ebenfalls Google Fonts */
+/*
+font-family: 'Lora', serif;
+*/
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -55,9 +69,14 @@ nav ul li {
   display: inline-block;
   padding: 0 15px;
 }
-nav ul li a {
+nav ul a {
   text-decoration: none;
   color: #fff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+nav ul a:hover {
+  color: #0236d2;
 }
 .logo_nav {
   float: left;

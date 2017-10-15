@@ -13,7 +13,7 @@
             <div class="header_img_wrap">
                 <img src="images/header_img.jpg" alt="Boxing" width="auto" height="460" />
                 <div class="header_caption_wrap">
-                    <h2>Kick&amp;Box Meisterei München</h2>
+                    <h2>Kick &amp; Box Meisterei München</h2>
                     <p>Wir machen Meister</p>                   
                 </div>
             </div>
@@ -22,8 +22,8 @@
         <div class="inner_wrap">
             <div class="intro">
                 <div>
-                    <h1>Welcome Title</h1>
-                    <p>Welcome text</p>
+                    <h1>Kick &amp; Box Meisterei München</h1>
+                    <p>Wir machen Meister.</p>
                 </div>
                 <img src="" alt="" width="" />
             </div>
