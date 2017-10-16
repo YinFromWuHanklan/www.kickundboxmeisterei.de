@@ -52,6 +52,19 @@ body {
   border-top: 1px solid #000;
   border-bottom: 1px solid #000;
 }
+.offer_teaser_big,
+.offer_teaser_small {
+  border: 1px solid #000;
+  width: 45%;
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.offer_teaser_big {
+  float: left;
+}
+.offer_teaser_small {
+  float: right;
+}
 h1 {
   font-family: 'Lato';
   font-size: 35px;

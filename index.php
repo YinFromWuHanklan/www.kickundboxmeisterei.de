@@ -60,29 +60,41 @@
             <div>
                 <h2>Title Training Offers</h2>
                 <div class="offer_teaser_big">
-                    <div class="teaser_image">
-                        <h3>Boxen lernen in 3 Tagen</h3>
-                        <img src="" alt="" width="" />
-                    </div>
-                    <p>Teaser Text</p>
-                </div>
-                <div class="offer_teaser_small">                
-                    <div class="teaser_image">
-                        <h3>Privates Kick & Box Training</h3>
-                        <img src="" alt="" width="" />
-                    </div>
-                    <p>Teaser Text</p>
+                    <h3>Boxen lernen in 3 Tagen</h3>
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="200px" />
+                    <p>
+                        Haus gebaut, Sohn gezeugt, Baum gepflanzt, doch eine Sache fehlt noch...Boxen können! 
+                        Keine Ausreden mehr, hier ist die Lösung! In 3 Tagen bringe ich dir clever & einfach 
+                        die grundlegenden Box- & Kickboxtechniken bei.
+                    </p>
+                    <p>
+                        Nach 3 Tagen bist du bereit für weitere Angebote der Kick &amp; Box Meisterei, 
+                        oder dem Beitritt in einem Boxverein.<br />
+                        Das Training kann überall stattfinden, da wir rein technisch miteinander 
+                        arbeiten werden.
+                    </p>
                 </div>
                 <div class="offer_teaser_small">
-                    <div class="teaser_image">
-                        <h3>Privates Gruppentraining</h3>
-                        <img src="" alt="" width="" />
-                    </div>
-                    <p>Teaser Text</p>
+                    <h3>Privates Kick &amp; Box Training</h3>
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="100px" />
+                    <p>
+                        Es ist noch kein Meister vom Himmel gefallen. Du bekommst professionelles und 
+                        exklusives Kick &amp; Box Training, ob in der Meisterei, in der Natur oder 
+                        bei dir zu Hause.
+                    </p>
+                </div>
+                <div class="offer_teaser_small">
+                    <h3>Privates Gruppentraining</h3>
+                    <img src="images/logo_kbm.png" alt="Kick &amp; Box Meisterei" width="100px" />
+                    <p>
+                        Wir trainieren in der Meisterei in leistungsorientierten Kleingruppen. 
+                        Der Fokus liegt auf Kontakttraining mit Niveau. Ideal für Geschäftsleute 
+                        und Berufstätige die es wissen wollen...
+                    </p>
                 </div>
             </div>
 
-            <div class="partner">
+            <div class="partner clear">
                 <h2>Freunde der Kick & Box Meisterei</h2>
                 <ul class="partner_list">
                     <li>
