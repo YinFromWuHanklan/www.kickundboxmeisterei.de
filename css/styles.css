@@ -2,6 +2,7 @@
     Created on : 20.09.2017, 16:29:11
     Author     : yinyinwu-hanke
 */
+@import url('https://fonts.googleapis.com/css?family=Lato|Lora');
 html,
 body {
   padding: 0;
@@ -13,17 +14,78 @@ body {
 .clear {
   clear: both;
 }
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 24.09.2017, 11:35:06
-    Author     : yinyinwu-hanke
-*/
+.header .header_img_wrap .header_caption_wrap {
+  position: absolute;
+  top: 280px;
+  right: 280px;
+  background-color: #0236d2;
+  padding: 0 20px 10px;
+  color: #fff;
+  opacity: 0.8;
+}
+.header .header_img_wrap .header_caption_wrap > h2 {
+  font-size: 30px;
+}
+.inner_wrap {
+  padding: 20px 15px;
+}
+.intro {
+  text-align: center;
+}
+.intro .intro_text {
+  float: left;
+  width: 48%;
+}
+.concept h2 {
+  text-align: center;
+}
+.concept .concept_teaser {
+  border: 1px solid #000;
+  float: left;
+  width: 27%;
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.youtube_show {
+  margin: 35px 0;
+  padding: 25px 20px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+.offer_teaser_big,
+.offer_teaser_small {
+  border: 1px solid #000;
+  width: 45%;
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.offer_teaser_big {
+  float: left;
+}
+.offer_teaser_small {
+  float: right;
+}
+h1 {
+  font-family: 'Lato';
+  font-size: 35px;
+}
+h2 {
+  font-family: 'Lato';
+  font-size: 25px;
+}
+h3 {
+  font-family: 'Lato';
+  font-size: 20px;
+}
+p {
+  font-family: 'Lora';
+  font-size: 15px;
+}
 /* Fonts Title: Lora oder Merriwheater Google Fotns 
    Text Arimo oder Lato ebenfalls Google Fonts */
+/*
+font-family: 'Lora', serif;
+*/
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -36,17 +98,51 @@ and open the template in the editor.
 nav ul {
   list-style: none;
   text-align: left;
-  padding: 25px 0 0 150px;
-  margin-bottom: 30px;
+  padding: 25px 0 25px 150px;
+  background-color: #e7214d;
+  margin-bottom: 0;
 }
 nav ul li {
   display: inline-block;
   padding: 0 15px;
+}
+nav ul a {
+  text-decoration: none;
+  color: #fff;
+  font-family: 'Lato';
+  font-size: 20px;
+}
+nav ul a:hover {
+  color: #0236d2;
 }
 .logo_nav {
   float: left;
   position: absolute;
   top: 20px;
   left: 40px;
+}
+.footer {
+  background-color: #0236d2;
+  padding: 20px 0;
+}
+.footer .social_media_wrap ul {
+  margin-top: 0;
+  list-style: none;
+  text-align: center;
+}
+.footer .social_media_wrap ul li {
+  display: inline-block;
+  padding: 0 15px;
+}
+.footer .copyright {
+  text-align: center;
+  color: #fff;
+}
+.footer .copyright p {
+  margin-bottom: 0;
+}
+.footer .copyright a {
+  text-decoration: none;
+  color: #fff;
 }
 /*# sourceMappingURL=styles.css.map */
