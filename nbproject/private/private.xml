@@ -16,19 +16,6 @@
             <file>file:/Applications/MAMP/htdocs/Private/www.kickundboxmeisterei.de/blog.html</file>
             <file>file:/Applications/MAMP/htdocs/Private/www.kickundboxmeisterei.de/less/includes/settings.less</file>
         </group>
-        <group>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/basics/navigation.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/css/styles.css</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/about.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/index.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/elements/footer.less</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/elements/navigation.less</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/backbone.less</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/blog.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/impressum.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/project.less</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/trainingsangebot.php</file>
-            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/basics/footer.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
