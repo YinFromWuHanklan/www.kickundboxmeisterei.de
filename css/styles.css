@@ -27,7 +27,7 @@ body {
   font-size: 30px;
 }
 .inner_wrap {
-  padding: 20px 15px;
+  padding: 0 20%;
 }
 .intro {
   text-align: center;
@@ -86,31 +86,36 @@ p {
 /*
 font-family: 'Lora', serif;
 */
-nav ul {
-  list-style: none;
-  text-align: left;
-  padding: 25px 0 25px 150px;
+.navigation {
   background-color: #e7214d;
-  margin-bottom: 0;
+  height: 50px;
+  position: fixed;
+  width: 100%;
 }
-nav ul li {
-  display: inline-block;
+.navigation .logo_nav {
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 40px;
+}
+.navigation nav ul {
+  list-style: none;
+  margin: 12px 0;
+  padding: 0;
+}
+.navigation nav ul li {
+  float: left;
   padding: 0 15px;
+  line-height: 1em;
 }
-nav ul a {
+.navigation nav ul a {
   text-decoration: none;
   color: #fff;
   font-family: 'Lato';
   font-size: 20px;
 }
-nav ul a:hover {
+.navigation nav ul a:hover {
   color: #0236d2;
-}
-.logo_nav {
-  float: left;
-  position: absolute;
-  top: 20px;
-  left: 40px;
 }
 .footer {
   background-color: #0236d2;
