@@ -14,6 +14,9 @@ body {
 .clear {
   clear: both;
 }
+.header {
+  padding-top: 45px;
+}
 .header .header_img_wrap .header_caption_wrap {
   position: absolute;
   top: 280px;
@@ -30,11 +33,12 @@ body {
   padding: 0 20%;
 }
 .intro {
-  text-align: center;
+  margin-top: 40px;
 }
 .intro .intro_text {
-  float: left;
-  width: 48%;
+  float: right;
+  width: 55%;
+  text-align: center;
 }
 .concept h2 {
   text-align: center;
@@ -72,6 +76,7 @@ h1 {
 h2 {
   font-family: 'Lato';
   font-size: 25px;
+  margin-top: 45px;
 }
 h3 {
   font-family: 'Lato';
@@ -88,7 +93,7 @@ font-family: 'Lora', serif;
 */
 .navigation {
   background-color: #e7214d;
-  height: 50px;
+  height: 45px;
   position: fixed;
   width: 100%;
 }
@@ -105,8 +110,10 @@ font-family: 'Lora', serif;
 }
 .navigation nav ul li {
   float: left;
-  padding: 0 15px;
   line-height: 1em;
+}
+.navigation nav ul li + li {
+  padding: 0 15px;
 }
 .navigation nav ul a {
   text-decoration: none;
@@ -118,7 +125,7 @@ font-family: 'Lora', serif;
   color: #0236d2;
 }
 .footer {
-  background-color: #0236d2;
+  background-color: gray;
   padding: 20px 0;
 }
 .footer .social_media_wrap ul {
