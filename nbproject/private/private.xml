@@ -17,8 +17,12 @@
             <file>file:/Applications/MAMP/htdocs/Private/www.kickundboxmeisterei.de/less/includes/settings.less</file>
         </group>
         <group>
+            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/elements/footer.less</file>
+            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/elements/navigation.less</file>
             <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/index.html</file>
             <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/settings.less</file>
+            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/less/includes/project.less</file>
+            <file>file:/Applications/MAMP/htdocs/kickundboxmeisterei.de/basics/footer.php</file>
         </group>
     </open-files>
 </project-private>
